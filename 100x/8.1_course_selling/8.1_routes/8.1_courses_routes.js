@@ -24,5 +24,5 @@ courseRouter.get("/preview",async (req, res) => {
     })
 })
 
-module.exports = { courseRouter: courseRouter }
+module.exports = { courseRouter: courseRouter }     
 
